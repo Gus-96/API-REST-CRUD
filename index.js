@@ -13,7 +13,7 @@ const pool = new Pool({
   user: 'augustosilva',       // Substitua com seu usuário PostgreSQL
   host: 'localhost',         // Pode ser o host do banco de dados (localhost ou IP remoto)
   database: 'user_base',     // Substitua com o nome do seu banco de dados
-  password: 'sua_senha',     // Substitua com sua senha do PostgreSQL
+  password: 'sua_senha',     // Substitua a senha do PostgreSQL
   port: 5432,                // O padrão do PostgreSQL é a porta 5432
 });
 
