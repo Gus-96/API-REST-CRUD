@@ -1,4 +1,4 @@
-Este é um projeto de exemplo que demonstra como criar uma API simples usando Node.js, Express e PostgreSQL. A API permite consultar e adicionar clientes a um banco de dados PostgreSQL.
+A API permite consultar e adicionar clientes a um banco de dados PostgreSQL
 
 Funcionalidades
 - Consultar clientes: Retorna uma lista de todos os clientes cadastrados.
